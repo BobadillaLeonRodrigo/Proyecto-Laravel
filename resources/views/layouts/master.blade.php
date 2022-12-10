@@ -173,7 +173,7 @@
       <!-- End Navbar -->
 
 <!-- Color del Navbar para la parte superior -->
-      <div class="panel bg-primary panel-header-sm">
+      <div class="panel-header text-white panel-header-sm">
       </div>
       <div class="content">
 
